@@ -1,7 +1,6 @@
 # OpenCTI Docker deployment
 
-This is a fork from [OpenCTI](https://github.com/OpenCTI-Platform/opencti) and [here](https://github.com/OpenCTI-Platform/docker)
-
+This is a fork from [OpenCTI](https://github.com/OpenCTI-Platform/docker).
 OpenCTI could be deployed using the *docker-compose* command.
 
 > For production deployment, we advise you to deploy `Grakn` and `ElasticSearch` manually in a dedicated environment and then to start the other components using `Docker`.
