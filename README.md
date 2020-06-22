@@ -1,6 +1,6 @@
 # OpenCTI Docker deployment
 
-This is a fork from [OpenCTI](https://github.com/OpenCTI-Platform/opencti)
+This is a fork from [OpenCTI](https://github.com/OpenCTI-Platform/opencti) and [here](https://github.com/OpenCTI-Platform/docker)
 
 OpenCTI could be deployed using the *docker-compose* command.
 
